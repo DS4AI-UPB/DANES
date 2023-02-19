@@ -1,5 +1,7 @@
 ### DANES
 
+Deep Neural Network Ensemble Architecture for Social and Textual Context-aware Fake News Detection
+
 ## Article:
 
 Ciprian-Octavian Truică, Elena-Simona Apostol, Panagiotis Karras. *CONTAIN: A Community-based Algorithm for Network Immunization*. Arxiv, 2023. Link: [https://arxiv.org/abs/2302.01756](https://arxiv.org/abs/2302.01756)
