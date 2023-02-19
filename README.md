@@ -1,6 +1,10 @@
-## DANES
+### DANES
 
-### Packages
+## Article:
+
+Ciprian-Octavian Truică, Elena-Simona Apostol, Panagiotis Karras. *CONTAIN: A Community-based Algorithm for Network Immunization*. Arxiv, 2023. Link: [https://arxiv.org/abs/2302.01756](https://arxiv.org/abs/2302.01756)
+
+## Packages
 
 Python >= 3.9
 - SciPy
@@ -13,7 +17,7 @@ Python >= 3.9
 - nltk
 - SpaCy
 
-### Utilization
+## Utilization
 
 To process the text and create both word embeddings and social context embeddings use
 
