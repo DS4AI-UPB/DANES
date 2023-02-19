@@ -1,4 +1,4 @@
-### DANES
+# DANES
 
 Deep Neural Network Ensemble Architecture for Social and Textual Context-aware Fake News Detection
 
