@@ -4,7 +4,7 @@ Deep Neural Network Ensemble Architecture for Social and Textual Context-aware F
 
 ## Article:
 
-Ciprian-Octavian Truică, Elena-Simona Apostol, Panagiotis Karras. *DANES: Deep Neural Network Ensemble Architecture for Social and Textual Context-aware Fake News Detection*. Arxiv, 2023. Link: [https://arxiv.org/abs/2302.01756](https://arxiv.org/abs/2302.01756)
+Ciprian-Octavian Truică, Elena-Simona Apostol, Panagiotis Karras. *DANES: Deep Neural Network Ensemble Architecture for Social and Textual Context-aware Fake News Detection*. Knowledge-Based Systems, 294:1-13(111715), ISSN 0950-7051, June 2024. DOI: [10.1016/j.knosys.2024.111715](https://doi.org/10.1016/j.knosys.2024.111715)
 
 ## Packages
 
